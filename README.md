@@ -1,0 +1,1 @@
+https://codewithmukesh.com/blog/multitenancy-in-aspnet-core/
